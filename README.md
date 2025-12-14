@@ -31,5 +31,5 @@ I focus on solving real-world problems using data and presenting insights throug
 
 ## 🔗 Connect With Me
 - **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN  
-- **GitHub:** https://github.com/YOUR_GITHUB  
-- **Kaggle:** https://kaggle.com/YOUR_KAGGLE
+- **GitHub:** https://github.com/brotech35 
+- **Kaggle:** https://www.kaggle.com/ramram234
