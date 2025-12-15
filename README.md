@@ -30,7 +30,7 @@ I focus on solving real-world problems using data and presenting insights throug
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN  
+- **LinkedIn:** https://linkedin.com/in/nileshsinghal69
 - **GitHub:** https://github.com/brotech35 
 - **Kaggle:** https://www.kaggle.com/ramram234
 - **Streamlit:** https://share.streamlit.io/user/brotech35
